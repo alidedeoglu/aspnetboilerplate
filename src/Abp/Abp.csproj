@@ -30,7 +30,7 @@
     <PackageReference Include="System.Collections.Immutable" Version="6.0.0-rc.1.21451.13" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0-rc.1.21451.13" />
     <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.12" />
-    <PackageReference Include="Castle.LoggingFacility" Version="5.1.1" />
+    <PackageReference Include="Castle.LoggingFacility" Version="6.0.0" />
     <PackageReference Include="System.Linq.Queryable" Version="4.3.0" />
     <PackageReference Include="System.Data.Common" Version="4.3.0" />
     <PackageReference Include="System.Threading" Version="4.3.0" />
